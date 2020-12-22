@@ -1,6 +1,6 @@
 # uWX
 Simple battery powered APRS-IS (micro) weather station. Hardware: ESP8266 + BME280
 
-![uWX-P1](uwx-prototype1.jpg)
+<img src="/b4sh/uWX/raw/main/uwx-prototype1.jpg" alt="uWX-P1" style="width:450px">
 
-![uWX-P2](uwx-prototype.jpg)
+<img src="/b4sh/uWX/raw/main/uwx-prototype.jpg" alt="uWX-P2" style="width:450px">
