@@ -10,3 +10,5 @@ ADC voltage divider - R1 320k, R2 100K.
 <img src="https://raw.githubusercontent.com/b4sh/uWX/main/uwx-prototype1.jpg" height="380"><img src="https://raw.githubusercontent.com/b4sh/uWX/main/uwx-prototype.jpg" height="380">
 
 <img src="https://raw.githubusercontent.com/b4sh/uWX/main/esp-adapter.jpg" width="791">
+
+<img src="https://raw.githubusercontent.com/b4sh/uWX/main/voltage-divider-battery-level.jpg">
