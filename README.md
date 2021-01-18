@@ -13,7 +13,5 @@ ADC voltage divider - R1 320k, R2 100K.
 
 <img src="https://raw.githubusercontent.com/b4sh/uWX/main/uwx-sch.jpg" width="791">
 
-<img src="https://raw.githubusercontent.com/b4sh/uWX/main/esp12.png">
-
 <img src="https://raw.githubusercontent.com/b4sh/uWX/main/compiler-settings.jpg">
 
