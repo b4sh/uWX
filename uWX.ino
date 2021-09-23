@@ -40,7 +40,7 @@ const char* APRS_PRJ = "uWX (ESP8266+BME280)";
 //**** Comment this for ESP.getVcc() value in telemetry
 //**** getVcc function (system_get_vdd33) is only available when A0 pin17 is suspended (floating), 
 //**** this function measure the power voltage of VDD3P3 pin 3 and 4 (in the ESP8266 chip)
-//#define HAVE_BATTERY
+#define HAVE_BATTERY
 
 //**** show BME280 registers in printbme();
 //#define DISPLAY_BME_REGS
